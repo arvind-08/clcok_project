@@ -18,20 +18,17 @@
     height: 25%;
     top: 25%;
     left: 48.3%;
-    /* display: none; */
 }
 #minute {
     width: 2.5%;
     height: 30%;
     top: 20%;
     left: 48.6%;
-    /* display: none; */
 }
 #second {
     width: 1.8%;
     height: 40%;
     top: 10.5%;
     left: 48.9%;
-    /* display: none; */
 }
 
